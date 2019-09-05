@@ -4,6 +4,7 @@ Estudiante: Elliesser Barroso Pinto Investigaci처n: Programaci처n en Paralelo A�
 FECHA:04/09/2019
 
 QUE HICE HASTA AHORA? 
+
 	Angular: Instalaci처n
 	Angular-Crud: Instalaci처n y ejemplo de Hoteles
 	Firebase: Uso, Ventajas y Desventajas, ejemplo de tetris en firebase
@@ -13,7 +14,9 @@ QUE HICE HASTA AHORA?
 	Investigar, entender e implementar un ejemplo de programaci처n en paralelo en JAVA.
 
 QUE HARE HOY?
+
 	Aprender el uso de Github :V
 	Investigar sobre Programaci처n en Paralelo en JAVA
 COMO LO HARE?
+
 	Usando la libreria de JAVA "concurrent" y los "Callable".
